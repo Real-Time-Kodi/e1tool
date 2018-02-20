@@ -15,3 +15,8 @@ sudo e1tool.sh -i
 ```
 Puts the second port back into headphones mode. This also re-enables 
 the internal microphone of the SoundBlaster E1.
+
+## Further Reading
+This soultion was discovered by user ids1024 on the Arch Linux forums. 
+The thread is 
+[here](https://bbs.archlinux.org/viewtopic.php?id=199458).
